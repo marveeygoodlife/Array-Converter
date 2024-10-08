@@ -6,7 +6,7 @@
 ## Table of Contents
 
 1. [AUTHOR](#marvellous-ediagbonya)
-1. [PROBLEM STATEMENT](#problem-statement)
+1. [PROBLEM DEFINITION](#problem-definition)
 2. [PROBLEM SPECIFICATION](#problem-specification)
 3. [ANALYSIS](#analysis)
 4. [DESIGN](#design)
@@ -119,7 +119,7 @@ CODE ENDS HERE
 
 
 
- ## RESULTS
+ ## RESULT
 
 The application runs as expected and it has been tested with several values to test the functionality of the implementation code.  
 Checks were added to ensure that both txtArray.Text and txtDivisor.Text contain valid input.   

@@ -1,5 +1,5 @@
 # Array-Converter
-
+![Preview of project](https://github.com/marveeygoodlife/Array-Converter/blob/main/images/Screenshot%202024-10-08%20141624.png)
  This is a simple VB6 application that calculate arrarys with divisible number(K)
 
  

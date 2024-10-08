@@ -63,8 +63,7 @@ The user interface for this application will consist of:
 - A label (lblOutput) to display the answer to the users.
 
 <strong>FLOW CHART:</strong>
-![Flowchart](url)
-
+![Flowchart](https://github.com/marveeygoodlife/Array-Converter/blob/main/images/Exercise%203.jpg)
 A simple flowchart representation of the algorithm
 
 ## IMPLEMENTATION
